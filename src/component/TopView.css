@@ -1,0 +1,24 @@
+.innerDiv
+{
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+   
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+p
+{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.mainDiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+}

@@ -1,0 +1,300 @@
+.mainDiv1
+{
+   
+    width: 80vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+  
+}
+.row1
+{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top: 15px;
+    width: 81.5%;
+
+}
+#inpUserName
+{
+    float: left;
+  
+}
+.optionalText
+{
+    color: #6c757D;
+}
+.emailDiv
+{
+  
+
+    width: 90%;
+}
+
+.userNameDiv
+{
+    
+    margin-top: 15px;
+    width: 90%;
+    
+    
+}
+.forUserName
+{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+
+}
+
+.addressDiv
+{
+   
+    margin-top: 15px;
+    width: 90%;
+    
+}
+
+.row6
+{
+   margin-top: 15px;
+   
+   display: flex;
+   flex-direction: row;
+   width: 81%;
+}
+
+.mainCheckBox
+{
+    margin-top: 12px;
+}
+
+.paymentDiv
+{
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+select
+{
+        display: block;
+        width: 100%;
+        padding: .375rem 2.25rem .375rem .75rem;
+        -moz-padding-start: calc(0.75rem - 3px);
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #fff;
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+        background-repeat: no-repeat;
+        background-position: right .75rem center;
+        background-size: 16px 12px;
+       
+        border-radius: .25rem;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+
+}
+
+.paymentList
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.btn
+{
+    
+    background-color: #0D6EFD;
+    width: 80% !important;
+    color: #fff;
+    border-radius:5px;
+    border-color: #0a58ca;
+    border-radius: .25rem;
+    height: 55px;
+    margin-top: 15px;
+      /* transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out; */
+}
+
+.btn:hover
+{
+    color: #212529;;
+}
+.rightPartRow1
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.rightPartRow1{
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+}
+
+.blue3Btn
+{
+    float: right;
+    size: 50%;
+}
+.cardList
+{
+    height: 6vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.rightPart{
+    height: 65vh;
+    width: 28vw;
+    border: 1px solid rgb(175, 173, 173);
+    border-radius: 10px;
+    
+
+    
+}
+.leftPart
+{  
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+.spanUserName
+{
+    float: leemaft;
+    margin-top: 1.45vh;
+    width: 10%;
+    height: 35px;
+    background-color: rgb(179, 177, 177);
+    text-align: center;
+    
+}
+#inputUN
+{
+    width: 90%;
+   
+}
+.forCheckBox
+{
+    display: flex;
+    flex-direction: row;
+}
+.divForCountry
+{
+    width: 40.6%;
+}
+
+.lastName{
+    float: right;
+}
+
+
+
+.paymentHeading
+{
+    float: left;
+    display: flex;
+    align-items: start;
+}
+
+.paymentNameDemo
+{
+    display: flex;
+    justify-content: start;
+    color: rgb(109, 105, 105);
+    font-weight: 50;
+}
+.divForState
+{
+    width: 32.33;
+    margin-left: 4px;
+    
+}
+
+.divForZip
+{
+    width: 24%;
+    margin-left: 4px;
+}
+
+label
+{
+    color: #212529;
+    size: 55px;
+    size: 1rem;
+}
+
+.inputField
+{
+    margin-top: 8px;
+    height: 6vh;
+
+}
+
+
+.rowExpiry
+{
+    display: flex;
+    flex-direction: row;
+    width: 45%;
+}
+
+.cvvDiv
+{
+    margin-left: 2%;
+}
+
+.hrLine
+{
+    width: 80%;
+    color: rgb(0, 0, 0);
+    height: 3px;
+    text-align: left;
+}
+.cardList h6
+{
+    margin-left: 10px;
+    color: black;
+    font-weight: 650;
+}
+
+.cardList span
+{
+    margin-left: 15px;
+    color:  #6c757d!important;
+    font-weight: 200;
+}
+
+.cardList2 h6
+{   margin-left: 10px;
+    color: #198754;
+    font-weight: 650;
+}
+
+.cardList2 span
+{
+    color: #198754!important;
+    font-weight: 200;
+    
+}
+
+.cardList2
+{
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+.dollarPrice
+{
+    float: right;
+    margin-left: 10vw;
+}
+

@@ -1,0 +1,21 @@
+*
+{
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(238, 232, 232);
+  
+}
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+}
+
+
+.innerDiv0
+{
+  width: 75%;
+}
